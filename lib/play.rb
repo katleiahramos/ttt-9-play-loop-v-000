@@ -40,4 +40,3 @@ def play(board)
   display_board(board)
   turn(board)
 end 
-  
